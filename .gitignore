@@ -1,0 +1,11 @@
+# User data — not distributed
+backups/
+exports/
+workspace/
+
+# Node
+node_modules/
+*.tgz
+
+# OS
+.DS_Store

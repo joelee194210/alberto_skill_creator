@@ -1,0 +1,32 @@
+{
+  "name": "alberto-skills-cc",
+  "version": "1.0.0",
+  "description": "Alberto Skills — Skill management system for Claude Code",
+  "author": "slacker",
+  "license": "MIT",
+  "bin": {
+    "alberto-skills-cc": "bin/install.js"
+  },
+  "files": [
+    "bin/",
+    "templates/",
+    "commands/",
+    "hooks/",
+    "workspace/",
+    "registry.json",
+    "VERSION"
+  ],
+  "engines": {
+    "node": ">=16.7.0"
+  },
+  "keywords": [
+    "claude-code",
+    "skills",
+    "cli",
+    "installer"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/slacker/alberto-skills-cc"
+  }
+}
