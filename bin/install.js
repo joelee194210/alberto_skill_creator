@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // ============================================================================
 //  Alberto Skills — Interactive Installer for Claude Code
-//  Created by Jose Lee <joelee194210@gmail.com>
+//  Created by Jose Lee <joelee1942@gmail.com>
 //
 //  For Beto... The Dude abides.
 // ============================================================================
