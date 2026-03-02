@@ -1,5 +1,10 @@
 #!/usr/bin/env node
-// Alberto Skills — Background update check (SessionStart hook)
+// ============================================================================
+//  Alberto Skills — Background Update Check (SessionStart hook)
+//  Created by Jose Lee <joelee194210@gmail.com>
+//
+//  For Beto... The Dude abides.
+// ============================================================================
 // Non-blocking: spawns a detached child process to check npm registry
 // Note: The inner process uses execFileSync (not execSync) for safety.
 // The command and arguments are hardcoded strings, not user input.

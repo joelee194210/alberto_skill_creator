@@ -1,5 +1,10 @@
 #!/usr/bin/env node
-// Alberto Skills — Interactive installer for Claude Code
+// ============================================================================
+//  Alberto Skills — Interactive Installer for Claude Code
+//  Created by Jose Lee <joelee194210@gmail.com>
+//
+//  For Beto... The Dude abides.
+// ============================================================================
 // Usage: npx alberto-skills-cc --global
 //        npx alberto-skills-cc --uninstall --global
 

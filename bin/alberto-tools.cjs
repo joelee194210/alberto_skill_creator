@@ -1,4 +1,10 @@
 #!/usr/bin/env node
+// ============================================================================
+//  Alberto Skills Tools — CLI utility for skill management
+//  Created by Jose Lee <joelee194210@gmail.com>
+//
+//  For Beto... The Dude abides.
+// ============================================================================
 
 /**
  * Alberto Skills Tools — CLI utility for skill management

@@ -1,5 +1,10 @@
 #!/usr/bin/env node
-// Alberto Skills — Statusline fragment
+// ============================================================================
+//  Alberto Skills — Statusline Fragment
+//  Created by Jose Lee <joelee194210@gmail.com>
+//
+//  For Beto... The Dude abides.
+// ============================================================================
 // Reads update cache and outputs indicator if update is available
 
 'use strict';
